@@ -1,0 +1,15 @@
+# Compiled C++ executables
+*.out
+*.exe
+circular_queue
+sum_natural
+factorial
+fibonacci_nth
+fibonacci_series
+queue
+sparse_matrix
+deque
+
+# Editor and temporary files
+*.swp
+*~
